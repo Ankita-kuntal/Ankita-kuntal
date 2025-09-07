@@ -6,7 +6,7 @@
 <td>
 
 - 🌱 I’m currently learning **MERN STACK**  
-- 👩‍💻 All of my projects are available at [Portfolio](https://portfolio-1eqk.vercel.app/)  
+- 👩‍💻 All of my projects are available at [Portfolio](https://portfolio-ankitaa.vercel.app/)  
 - 💬 Ask me about **DSA, Web Development, Designing**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ankita-kuntal/)  
 - ⚡ Fun fact: **I can spend 2 hours fixing a 2-pixel misalignment and call it a productive day 🐥**  
